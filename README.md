@@ -2,7 +2,7 @@
 
 > **Advanced counter animation library with intelligent number formatting and international localization support**
 
-[![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)](https://github.com/SyntaxSerenity-dev/counter-animator)
+[![Version](https://img.shields.io/badge/version-2.1.0-blue.svg)](https://github.com/SyntaxSerenity-dev/counter-animator)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Author](https://img.shields.io/badge/author-syntax%20serenity-green.svg)](mailto:fs.developerfullstack@gmail.com)
 [![Build Status](https://img.shields.io/badge/build-passing-brightgreen.svg)]()
@@ -660,7 +660,7 @@ console.log("Current config:", animator.config);
 
 ## 📝 Changelog
 
-### v1.0.0 (2024-12-19)
+### v2.1.0 (2024-12-19)
 
 - 🎉 **Initial release**
 - ✨ **Intelligent number format detection**
