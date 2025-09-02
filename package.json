@@ -1,0 +1,33 @@
+{
+    "name": "@SyntaxSerenity-dev/counter-animator",
+    "version": "1.0.0",
+    "description": "Advanced counter animation library with intelligent number formatting and international localization support",
+    "main": "dist/counterAnimator.js",
+    "module": "src/counterAnimator.js",
+    "license": "MIT",
+    "author": {
+        "name": "Syntax Serenity",
+        "email": "fs.developerfullstack@gmail.com",
+        "url": "https://syntaxserenity.dev"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/SyntaxSerenity-dev/counter-animator.git"
+    },
+    "keywords": [
+        "counter",
+        "animation",
+        "number-formatting",
+        "localization",
+        "intersection-observer",
+        "performance",
+        "javascript",
+        "library",
+        "number-abbreviation",
+        "international"
+    ],
+    "bugs": {
+        "url": "https://github.com/SyntaxSerenity-dev/counter-animator/issues"
+    },
+    "homepage": "https://github.com/SyntaxSerenity-dev/counter-animator#readme"
+}
